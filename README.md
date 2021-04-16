@@ -1,7 +1,7 @@
 # Motion-Synth
 Motion Synth is a pure data patch that lets you control a *synthesizer* and a *sample launcher* with the movement of your phone.
 
-![image](https://user-images.githubusercontent.com/60481472/115005905-9d8eae00-9ea8-11eb-859d-1af9154e6c6a.png)
+<img src="https://user-images.githubusercontent.com/60481472/115005905-9d8eae00-9ea8-11eb-859d-1af9154e6c6a.png" width="500">
 
 ---
 
@@ -19,4 +19,4 @@ Motion Synth is a pure data patch that lets you control a *synthesizer* and a *s
 
 ---
 
-2021-CIR²-ISEN
+CIR²-ISEN (2021)
